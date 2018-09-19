@@ -1,0 +1,28 @@
+  Color TransferFunction(short value)//TF - функция перевода значения плотностей томограммы в цвет.
+        {
+           // int min = 0;
+           // int max = 2000;
+           // int newVal = clamp((value - min) * 255 / (max-min ), 0, 255);
+           //return Color.FromArgb(255, newVal, newVal, newVal);
+
+
+
+            int newVal = clamp((value - min) * 255 / width+min-min, 0, 255);
+            return Color.FromArgb(255, newVal, newVal, newVal);
+            //if ((value >= -1000) && (value < -100))
+            //{
+            //    return Color.FromArgb(0, 0, 255);
+            //}
+            //else if ((value >= -100) && (value < 40))
+            //{
+            //    return Color.FromArgb(255, 255, 0);
+            //}
+            //else if ((value >= 40) && (value < 1000))
+            //{
+            //    return Color.FromArgb(255, 0, 0);
+            //}
+            //else
+            //{
+            //    return Color.FromArgb(255, newVal, newVal, newVal);
+            //}
+        }

@@ -1,0 +1,14 @@
+c:\users\martyjfox\documents\visual studio 2015\Projects\TomogrammVisualizer\TomogrammVisualizer\bin\Debug\TomogrammVisualizer.exe.config
+C:\Users\Martyjfox\Documents\Visual Studio 2015\Projects\TomogrammVisualizer\TomogrammVisualizer\bin\Debug\TomogrammVisualizer.exe
+C:\Users\Martyjfox\Documents\Visual Studio 2015\Projects\TomogrammVisualizer\TomogrammVisualizer\bin\Debug\TomogrammVisualizer.pdb
+C:\Users\Martyjfox\Documents\Visual Studio 2015\Projects\TomogrammVisualizer\TomogrammVisualizer\bin\Debug\OpenTK.dll
+C:\Users\Martyjfox\Documents\Visual Studio 2015\Projects\TomogrammVisualizer\TomogrammVisualizer\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Martyjfox\Documents\Visual Studio 2015\Projects\TomogrammVisualizer\TomogrammVisualizer\bin\Debug\OpenTK.pdb
+C:\Users\Martyjfox\Documents\Visual Studio 2015\Projects\TomogrammVisualizer\TomogrammVisualizer\bin\Debug\OpenTK.xml
+C:\Users\Martyjfox\Documents\Visual Studio 2015\Projects\TomogrammVisualizer\TomogrammVisualizer\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Martyjfox\Documents\Visual Studio 2015\Projects\TomogrammVisualizer\TomogrammVisualizer\obj\Debug\TomogrammVisualizer.csprojResolveAssemblyReference.cache
+C:\Users\Martyjfox\Documents\Visual Studio 2015\Projects\TomogrammVisualizer\TomogrammVisualizer\obj\Debug\TomogrammVisualizer.Form1.resources
+C:\Users\Martyjfox\Documents\Visual Studio 2015\Projects\TomogrammVisualizer\TomogrammVisualizer\obj\Debug\TomogrammVisualizer.Properties.Resources.resources
+C:\Users\Martyjfox\Documents\Visual Studio 2015\Projects\TomogrammVisualizer\TomogrammVisualizer\obj\Debug\TomogrammVisualizer.csproj.GenerateResource.Cache
+C:\Users\Martyjfox\Documents\Visual Studio 2015\Projects\TomogrammVisualizer\TomogrammVisualizer\obj\Debug\TomogrammVisualizer.exe
+C:\Users\Martyjfox\Documents\Visual Studio 2015\Projects\TomogrammVisualizer\TomogrammVisualizer\obj\Debug\TomogrammVisualizer.pdb
